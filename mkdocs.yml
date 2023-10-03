@@ -1,0 +1,12 @@
+site_name:  Sistema Controle de Estoque 
+
+nav:
+      - Sistema Controle de Estoque : home.md
+      - Resumo: resumo.md
+      - Introdução: intro.md
+      - Front-end: front-end.md
+      - Projeto no Github: repo.md
+      - Conclusão: conclusao.md
+
+theme:
+  name: readthedocs
